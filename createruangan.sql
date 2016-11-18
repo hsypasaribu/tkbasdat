@@ -1,0 +1,4 @@
+CREATE TABLE RUANGAN(
+ID INT unique not null,
+Nama VARCHAR(50) NOT NULL,
+);
